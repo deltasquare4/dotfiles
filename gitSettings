@@ -1,0 +1,9 @@
+export GIT_AUTHOR_NAME='Rakshit Menpara'
+export GIT_AUTHOR_EMAIL='deltasquare4@gmail.com'
+export GIT_COMMITTER_NAME='Rakshit Menpara'
+export GIT_COMMITTER_EMAIL='deltasquare4@gmail.com'
+
+# Github credentials
+export GITHUB_USER='deltasquare4'
+export GITHUB_TOKEN=''
+
