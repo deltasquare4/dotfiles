@@ -8,16 +8,15 @@
 	[
 		"Phpcs"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"rulers":
 	[
 		80
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"margin": -1,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
-	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"word_separators": "./\\()\"'-:$,.;<>~!@#%^&*|+=[]{}`~?"
 }
