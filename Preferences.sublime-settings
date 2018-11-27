@@ -1,12 +1,39 @@
 {
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Wallaby/Monokai (SL).tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"__pycache__",
+		"node_modules",
+		"*.min.js",
+		"*.map",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.psd"
+	],
 	"font_size": 15.0,
 	"ignored_packages":
 	[
-		"Phpcs"
+		"-Phpcs"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
